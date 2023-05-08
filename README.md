@@ -1,4 +1,4 @@
-# Make-up-project
+# Beauty Bloom
 
 
 Beauty Bloom is a responsive and dynamic E-commerce website that will serve customers who are interested in make-up cosmetics, we used React js and Tailwind to build our website.  
